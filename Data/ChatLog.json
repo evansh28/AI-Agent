@@ -1,0 +1,218 @@
+[
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you forgot to ask a question! Please go ahead and ask me anything, and I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you forgot to ask a question again! Please go ahead and ask me anything, and I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're having a little fun with me! Unfortunately, I need a real question to provide a helpful answer. Please go ahead and ask me anything!"
+    },
+    {
+        "role": "user",
+        "content": "Generate image."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to generate images. I can provide information and answer questions to the best of my abilities, but I don't have a visual component."
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Kakarot."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "What can you do?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can answer a wide range of questions, provide information on various topics, and engage in conversations. I can also process and understand natural language, allowing me to respond accurately and contextually."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you forgot to ask a question again! Please go ahead and ask me anything, and I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're having a little fun with me again! Unfortunately, I need a real question to provide a helpful answer. Please go ahead and ask me anything!"
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I think we've had enough of the question marks for now! Please go ahead and ask a real question, and I'll do my best to help."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I think it's time to move on from the question marks! Please ask a real question, and I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Kakarot."
+    },
+    {
+        "role": "user",
+        "content": "What can you do?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can answer a wide range of questions, provide information on various topics, and engage in conversations. I can also process and understand natural language, allowing me to respond accurately and contextually."
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me a joke?"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's one: Why couldn't the bicycle stand up by itself? Because it was two-tired!"
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me what a programming language is?"
+    },
+    {
+        "role": "assistant",
+        "content": "A programming language is a set of rules and instructions that a computer can understand and execute to perform specific tasks, solve problems, and create software applications."
+    },
+    {
+        "role": "user",
+        "content": "Who is alone mask?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the provided search results, I couldn't find any information about \"Alone Mask\". The search results seem to be related to Elon Musk, a businessman and entrepreneur known for his roles in companies like Tesla, SpaceX, and Twitter. There is no mention of \"Alone Mask\" in the provided information."
+    },
+    {
+        "role": "user",
+        "content": "Can you suggest me some smartphone under?"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like your question got cut off! Could you please complete your question, such as \"Can you suggest me some smartphones under [budget/price range]?\" I'd be happy to help!"
+    },
+    {
+        "role": "user",
+        "content": "Can you suggest me some smartphones under 20000?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the search results, here are some smartphones under \u20b920,000:\n\n1. Nothing Phone 2a\n2. iQOO Z9\n3. iQOO Z9s\n4. Infinix Note 40 Pro 5G\n5. realme Narzo 70 Pro\n6. Moto G85\n7. Tecno Pova 6 Pro\n8. POCO X6 Pro\n9. Samsung Galaxy M35\n10. Realme Narzo 70 Pro 5G\n11. iQOO Z9 5G\n12. OnePlus Nord CE 4 Lite 5G\n13. POCO X6 5G\n14. Vivo T3 5G\n15. Oppo A3 Pro 5G\n16. Redmi Note 14\n17. Redmi Note 13 Pro\n18. Samsung Galaxy A16 5G\n19. Motorola G85 5G\n20. Realme 13+ 5G\n21. Realme P2 Pro 5G\n\nPlease note that this is not an exhaustive list, and there may be other smartphones available in the market under \u20b920,000. It's always a good idea to research and compare features, prices, and reviews before making a purchase."
+    },
+    {
+        "role": "user",
+        "content": "Chal rate."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant \"Chal rate kya hai?\" which is Hindi for \"What's the rate?\"\n\nIf you're asking about the current rate of something, could you please specify what you're looking for, such as the exchange rate, interest rate, or price of a particular item? I'll do my best to provide you with the latest information."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Who is devansh indoria?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the search results provided, Devansh Indoria appears to be an individual with a presence on social media platforms such as Instagram and LinkedIn. He is a student at S.J.P.A. and has worked as a Customer Service Specialist at Concentrix. He also has an interest in sports, particularly basketball, boxing, and athletics."
+    },
+    {
+        "role": "user",
+        "content": "Who is goku?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the search results provided, Goku is a fictional character and the main protagonist of the Dragon Ball manga series created by Akira Toriyama. He is a Saiyan raised on Earth and is known for his incredible strength, bravery, and kind heart. He is one of the survivors of the Saiyan race and is also known as Kakarot, which is my namesake!"
+    },
+    {
+        "role": "user",
+        "content": "What is the relationship of goku with vegeta?"
+    },
+    {
+        "role": "assistant",
+        "content": "Goku and Vegeta are arch-rivals and former enemies who later become allies and friends in the Dragon Ball series. They start as bitter rivals, with Vegeta being the prince of the Saiyans and Goku being a low-class Saiyan warrior. However, as the series progresses, they develop a deep respect and admiration for each other, and Vegeta eventually becomes one of Goku's closest friends and allies."
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me the market trend of the programming languages according to 2025?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the search results provided, here is the market trend of programming languages according to 2025:\n\nAccording to various sources, including Pluralsight, upGrad, Coursera, Crossover, and GeeksforGeeks, the top programming languages in 2025 are:\n\n1. Python: Continues to dominate with a strong market share, with a +1.7% one-year trend.\n2. Java and JavaScript: Remain strong and popular.\n3. Rust and Swift: Are slowly increasing in popularity year-over-year.\n\nThe top 10 programming languages for 2025, ranked based on popularity, job demand, versatility, community support, and future trends, are:\n\n1. Python\n2. Java\n3. JavaScript\n4. Rust\n5. Swift\n6. Go\n7. Kotlin\n8. TypeScript\n9. Ruby\n10. PHP\n\nPlease note that the rankings may vary depending on the source and criteria used. However, Python is consistently ranked as one of the top programming languages in 2025."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I think we've had enough of the question marks for now! Please go ahead and ask a real question, and I'll do my best to help."
+    },
+    {
+        "role": "user",
+        "content": "Which one is the highest growing stock in 2025?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the search results provided, the highest growing stock in 2025 varies depending on the source and criteria used. However, some of the top growing stocks mentioned in the search results are:\n\n1. Kisan Mouldings: With a growth rate of 589.66%.\n2. One Point One: With a growth rate of 1259.82%.\n3. MIC Electronics: With a growth rate of 1507.73%.\n4. HDFC Bank: With a growth rate of 25%.\n5. Bajaj Finance: With a growth rate of 25%.\n\nPlease note that these figures are based on the provided search results and may not reflect the current market situation. It's always a good idea to do your own research and consult with a financial advisor before making any investment decisions."
+    }
+]

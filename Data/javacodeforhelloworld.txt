@@ -1,0 +1,21 @@
+Sure, I'd be happy to help you with that! Here's a simple Java code snippet that will print "Hello, World!" to the console:
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+To run this code, you'll need to have a Java development environment set up on your computer. You can download the Java Development Kit (JDK) for free from the official Oracle website. Once you have the JDK installed, you can compile and run the code using the `javac` and `java` command-line tools, respectively.
+
+For example, to compile the code above, you would open a terminal or command prompt and navigate to the directory where the code is saved. Then, you would enter the following command:
+```bash
+javac HelloWorld.java
+```
+This will create a file called `HelloWorld.class` in the same directory. To run the code, you would enter the following command:
+```bash
+java HelloWorld
+```
+This will print "Hello, World!" to the console.
+
+I hope that helps! Let me know if you have any other questions.
